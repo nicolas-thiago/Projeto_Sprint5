@@ -16,3 +16,5 @@ Este projeto é um aplicativo web criado com Streamlit para visualizar dados de 
 
 ```bash
 streamlit run app.py
+
+Acesse o app aqui: https://projeto-sprint5-k1hh.onrender.com
