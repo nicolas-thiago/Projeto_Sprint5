@@ -1,6 +1,6 @@
 # Projeto_Sprint5 - Análise de Vendas de Carros Usados
 
-Este projeto é um aplicativo web criado com Streamlit para visualizar dados de venda de veículos usados nos Estados Unidos.
+Este projeto é um aplicativo web criado com Streamlit para visualizar alguns dados de venda de veículos usados nos Estados Unidos.
 
 ## Funcionalidades
 
